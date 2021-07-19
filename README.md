@@ -1,3 +1,3 @@
-# bootstrap-starter-template
+# bootstrap-starter-templates
 
-Bootstrap 4.6.0 starter template
+Bootstrap 4.6.0 starter templates
